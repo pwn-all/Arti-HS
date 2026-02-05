@@ -21,7 +21,7 @@ tor-rtcompat = "0.38.0"
 
 bip39 = "2.2.2"
 futures-util = "0.3.31"
-safelog = "0.7.1"
+safelog = "0.7.2"
 serde = { version = "1.0.149", features = ["derive"] }
 rpassword = "7.4.0"
 secrecy = "0.10.3"
