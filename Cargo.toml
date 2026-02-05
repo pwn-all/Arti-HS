@@ -17,7 +17,7 @@ tor-hsservice = "0.39.0"
 tor-llcrypto = "0.38.0"
 tor-config = "0.39.0"
 tor-cell = "0.38.0"
-tor-rtcompat = "0.38.0"
+tor-rtcompat = "0.39.0"
 
 bip39 = "2.2.2"
 futures-util = "0.3.31"
