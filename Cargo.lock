@@ -24,7 +24,7 @@ dependencies = [
  "tor-hsservice 0.39.0",
  "tor-keymgr 0.39.0",
  "tor-llcrypto 0.38.0",
- "tor-rtcompat 0.38.0",
+ "tor-rtcompat 0.39.0",
  "tower",
  "zeroize",
 ]
