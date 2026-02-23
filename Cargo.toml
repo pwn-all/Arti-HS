@@ -14,7 +14,7 @@ arti-client =  { version = "0.39.0", features = ["ephemeral-keystore", "restrict
 tor-keymgr = { version = "0.39.0", features = ["ephemeral-keystore"] }
 tor-hscrypto = "0.38.0"
 tor-hsservice = "0.39.0"
-tor-llcrypto = "0.38.0"
+tor-llcrypto = "0.39.0"
 tor-config = "0.39.0"
 tor-cell = "0.38.0"
 tor-rtcompat = "0.39.0"
