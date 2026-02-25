@@ -20,7 +20,7 @@ tor-cell = "0.38.0"
 tor-rtcompat = "0.39.0"
 
 bip39 = "2.2.2"
-futures-util = "0.3.31"
+futures-util = "0.3.32"
 safelog = "0.7.2"
 serde = { version = "1.0.149", features = ["derive"] }
 rpassword = "7.4.0"
